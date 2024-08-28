@@ -1,0 +1,17 @@
+.sidebar li a {
+  color: black;
+  transition: 0.2s;
+}
+.sidebar li {
+  transition: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.sidebar li:hover {
+  background-color: #fac031;
+}
+
+.sidebar ul li:hover a {
+  color: white;
+}

@@ -1,0 +1,10 @@
+.sidebar {
+  height: calc(100vh - 56px);
+  background-color: #f8f9fa;
+}
+.sidebar li {
+  padding: 10px 5px;
+}
+.sidebar li a {
+  text-decoration: none;
+}

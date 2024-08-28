@@ -1,0 +1,15 @@
+.product .card img {
+  height: 250px;
+  width: 250px;
+}
+.product .card .dis {
+  margin: 20px 0;
+  color: #646060;
+}
+
+.product-details {
+  padding-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
